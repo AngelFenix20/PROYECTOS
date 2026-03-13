@@ -1,2 +1,3 @@
 # comentario
-print ("hola mundo")
+nombre = "angel"
+print (nombre)
